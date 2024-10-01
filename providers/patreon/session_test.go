@@ -3,7 +3,7 @@ package patreon
 import (
 	"testing"
 
-	"github.com/markbates/goth"
+	"github.com/rashemihmih/goth"
 	"github.com/stretchr/testify/assert"
 )
 

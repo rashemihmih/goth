@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/battlenet"
+	"github.com/rashemihmih/goth"
+	"github.com/rashemihmih/goth/providers/battlenet"
 	"github.com/stretchr/testify/assert"
 )
 

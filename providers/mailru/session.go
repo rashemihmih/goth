@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/markbates/goth"
+	"github.com/rashemihmih/goth"
 )
 
 // Session stores data during the auth process with MAILRU.

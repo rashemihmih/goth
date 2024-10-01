@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/github"
+	"github.com/rashemihmih/goth"
+	"github.com/rashemihmih/goth/providers/github"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package yahoo_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/yahoo"
+	"github.com/rashemihmih/goth"
+	"github.com/rashemihmih/goth/providers/yahoo"
 	"github.com/stretchr/testify/assert"
 )
 
